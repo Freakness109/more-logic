@@ -1,0 +1,140 @@
+{
+	"customColorSchemes": [
+		[
+			{
+				"fill": "#215caf",
+				"stroke": "#08407e"
+			},
+			{
+				"fill": "#4d7dbf",
+				"stroke": "#08407e"
+			},
+			{
+				"fill": "#7a9dcf",
+				"stroke": "#08407e"
+			},
+			{
+				"fill": "#a6bedf",
+				"stroke": "#08407e"
+			},
+			{
+				"fill": "#007894",
+				"stroke": "#00596d"
+			},
+			{
+				"fill": "#3395ab",
+				"stroke": "#00596d"
+			},
+			{
+				"fill": "#66afc0",
+				"stroke": "#00596d"
+			},
+			{
+				"fill": "#99cad5",
+				"stroke": "#00596d"
+			}
+		],
+		[
+			{
+				"fill": "#627313",
+				"stroke": "#365213"
+			},
+			{
+				"fill": "#818f42",
+				"stroke": "#365213"
+			},
+			{
+				"fill": "#a1ab71",
+				"stroke": "#365213"
+			},
+			{
+				"fill": "#c0c7a1",
+				"stroke": "#365213"
+			},
+			{
+				"fill": "#8e6713",
+				"stroke": "#956013"
+			},
+			{
+				"fill": "#a58542",
+				"stroke": "#956013"
+			},
+			{
+				"fill": "#bba471",
+				"stroke": "#956013"
+			},
+			{
+				"fill": "#d2c2a1",
+				"stroke": "#956013"
+			}
+		],
+		[
+			{
+				"fill": "#b7352d",
+				"stroke": "#96272d"
+			},
+			{
+				"fill": "#c55d57",
+				"stroke": "#96272d"
+			},
+			{
+				"fill": "#d48681",
+				"stroke": "#96272d"
+			},
+			{
+				"fill": "#e2aeab",
+				"stroke": "#96272d"
+			},
+			{
+				"fill": "#a30774",
+				"stroke": "#8c0a59"
+			},
+			{
+				"fill": "#b73b92",
+				"stroke": "#8c0a59"
+			},
+			{
+				"fill": "#ca6cae",
+				"stroke": "#8c0a59"
+			},
+			{
+				"fill": "#dc9ec9",
+				"stroke": "#8c0a59"
+			}
+		],
+		[
+			{
+				"fill": "#6f6f6f",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#8c8c8c",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#a9a9a9",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#c5c5c5",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#e2e2e2",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#f1f1f1",
+				"stroke": "#575757"
+			},
+			{
+				"fill": "#575757",
+				"stroke": "#000000"
+			},
+			{
+				"fill": "#ffffff",
+				"stroke": "#000000"
+			}
+		]
+	]
+}
